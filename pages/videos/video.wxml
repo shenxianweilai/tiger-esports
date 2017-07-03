@@ -1,0 +1,8 @@
+<!--video.wxml-->
+<text>Dendi屠夫集锦</text>
+<view class="section tc">
+  <video src="{{src}}" controls="controls"></video>
+  <view class="btn-area">
+    <button bindtap="bindButtonTap">获取视频</button>
+  </view>
+</view>

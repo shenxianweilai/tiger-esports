@@ -1,0 +1,51 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/DOTA2/DOTA2",
+    "pages/videos/video"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "虎电竞",
+    "navigationBarTextStyle": "black"
+  },
+  "tabBar": {
+    "color": "#a9b7b7",
+    "selectedColor": "#11cd6e",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "text": "新闻",
+        "iconPath": "icons/news.png",
+        "selectedIconPath": "icons/news2.png"
+      },
+      {
+        "pagePath": "pages/DOTA2/DOTA2",
+        "text": "比赛",
+        "iconPath": "icons/match.png",
+        "selectedIconPath": "icons/match2.png"
+      },
+      {
+        "pagePath": "pages/videos/video",
+        "text": "视频",
+        "iconPath": "icons/video.png",
+        "selectedIconPath": "icons/video2.png"
+      },
+      {
+        "pagePath": "pages/DOTA2/DOTA2",
+        "text": "商城",
+        "iconPath": "icons/shop.png",
+        "selectedIconPath": "icons/shop2.png"
+      },
+      {
+        "pagePath": "pages/DOTA2/DOTA2",
+        "text": "我的",
+        "iconPath": "icons/mine.png",
+        "selectedIconPath": "icons/mine2.png"
+      }
+    ]
+  }
+}

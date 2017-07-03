@@ -1,0 +1,4 @@
+/* DOTA2.wxss */
+view {
+  text-align: center;
+}

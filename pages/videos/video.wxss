@@ -1,0 +1,4 @@
+/* video.wxss */
+.section tc{
+align-content: center;
+}

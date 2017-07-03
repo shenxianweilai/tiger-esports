@@ -1,0 +1,6 @@
+<!--DOTA2.wxml-->
+<view class="container">{{text}}</view>
+<view>{{array[0].msg}}</view>
+<view class="classname">TI预选赛</view>
+<view class="classname">
+<image src="{{src}}"style="width:50px; height:40px;" bindtap="scanCode"></image> </view>
